@@ -1,5 +1,5 @@
 # Newton---Raphoson---Animation
-#Visualisatoon- animée-methode-Newton-Raphson en Python
+#Visualisation- animée-methode-Newton-Raphson en Python
 # Newton-Raphson Animation – Visualisation et Machine Learning
 
 ![Animation Newton-Raphson](newton_raphson_smooth.gif)
