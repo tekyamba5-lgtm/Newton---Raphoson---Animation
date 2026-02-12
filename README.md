@@ -1,4 +1,4 @@
-# Newton---Raphoson---Animation
+# Newton---Raphson---Animation
 #Visualisation- animée-methode-Newton-Raphson en Python
 # Newton-Raphson Animation – Visualisation et Machine Learning
 
